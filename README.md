@@ -22,11 +22,12 @@ Completed
 This project was built to combine mobile development skills with social and humanitarian awareness.
 
 ## Screenshots
-![1](https://github.com/user-attachments/assets/4f7e1ad9-ff65-4dc7-8c2f-1c83307be29e)
-![2](https://github.com/user-attachments/assets/7fabd58a-f2f5-47c6-a97f-66206c2d8d83)
-![3](https://github.com/user-attachments/assets/1fac8d1b-e8cb-48b8-a56c-0e900b9588f2)
-![4](https://github.com/user-attachments/assets/9e83a9b7-7ac7-4a0c-b4d3-802632c65ee3)
-![5](https://github.com/user-attachments/assets/cfa20420-10ae-41c9-88d1-1b3ae55e7ff7)
-![6](https://github.com/user-attachments/assets/cd2d962d-1cf9-465e-80dc-0686677c485c)
-![7](https://github.com/user-attachments/assets/55779b28-0c2f-4816-9e15-8a46bfb08024)
+![1](https://github.com/user-attachments/assets/e3d7f5a5-a241-4937-ad1a-622c89e046cd)
+![2](https://github.com/user-attachments/assets/fb11c757-c494-43f4-9b59-ad560c5a7919)
+![3](https://github.com/user-attachments/assets/016cfa08-6308-49d9-95ca-319d90dea710)
+![4](https://github.com/user-attachments/assets/9265ad56-2fd3-43b7-b7fd-69e4748dec61)
+![5](https://github.com/user-attachments/assets/78dd5e36-8926-42e0-9976-19c2799d4a6b)
+![6](https://github.com/user-attachments/assets/593b999b-219d-4f30-b350-65953cd676d9)
+![7](https://github.com/user-attachments/assets/7deb313f-b505-4fa9-8505-d59f43810a25)
+
 
